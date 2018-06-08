@@ -23,7 +23,8 @@ class User
   end 
 end 
 
-jessica=User.new("Jessica", "password", "Jessica@Jessica", "19")
+jessica=User.new("Jessica", "password", "Jessica@Jessica.com", "19")
+sofia=User.new("sofiaiscool","123cats","sofiaownstheworld@sofia.com","17")
 puts jessica.username
 puts jessica.password
 puts jessica.email
