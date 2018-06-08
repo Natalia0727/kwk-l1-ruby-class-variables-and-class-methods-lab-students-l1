@@ -24,3 +24,7 @@ class User
 end 
 
 jessica=User.new("Jessica", "password", "Jessica@Jessica", "19")
+puts jessica.username
+puts jessica.password
+puts jessica.email
+puts jessica.age
