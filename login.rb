@@ -29,3 +29,7 @@ puts jessica.username
 puts jessica.password
 puts jessica.email
 puts jessica.age
+puts sofia.username
+puts sofia.password
+puts sofia.email
+puts sofia.age
